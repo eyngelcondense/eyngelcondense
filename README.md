@@ -40,36 +40,11 @@ little things that make the journey worthwhile.
 
 ## `02 // WHAT I BUILD`
 
-```text
-          IDEA
-            │
-            ▼
-       ┌───────────┐
-       │  EXPLORE  │
-       └─────┬─────┘
-             │
-             ▼
-       ┌───────────┐
-       │   BUILD   │
-       └─────┬─────┘
-             │
-             ▼
-       ┌───────────┐
-       │  DEBUG    │
-       └─────┬─────┘
-             │
-             ▼
-       ┌───────────┐
-       │  IMPROVE  │
-       └─────┬─────┘
-             │
-             └───────────────↻
-```
+I enjoy turning ideas into functional and meaningful digital solutions. As an IT student, I explore different areas of development—from web and mobile applications to databases and user-centered systems.
 
-I enjoy creating **web applications, mobile applications, databases, and
-user-focused systems**. I like projects that allow me to combine technical
-skills with creativity, especially when the result solves a real problem or
-makes someone's experience easier.
+I like projects that challenge me to think beyond just making something work. I want to understand the problem behind the project, design a solution that makes sense, and create an experience that people can actually use.
+
+My goal is to keep building projects that reflect both sides of me: the technical side that loves solving problems and the creative side that loves bringing ideas to life.
 
 ---
 
@@ -121,27 +96,21 @@ I'm more interested in always having something new to learn.
 
 ## `05 // MY DEVELOPER PHILOSOPHY`
 
-```text
-                 ┌───────────────────────┐
-                 │       WRITE CODE      │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                       ┌───────────┐
-                       │   ERROR   │
-                       └─────┬─────┘
-                             │
-                             ▼
-                       ┌───────────┐
-                       │  LEARN    │
-                       └─────┬─────┘
-                             │
-                             ▼
-                       ┌───────────┐
-                       │  BETTER   │
-                       └───────────┘
-                             ↻
-```
+Technology is a big part of what I do, but it isn't everything.
+
+Outside of coding and school projects, I enjoy creating, organizing, collaborating, and being involved in activities where I can contribute beyond the technical side.
+
+I believe being a developer is not only about writing code. It's also about communication, creativity, leadership, problem-solving, and understanding the people behind the system.
+
+I'm still learning, still building, and still figuring things out — and honestly, that's one of the things I enjoy most about being in tech.
+
+                    ┌─────────────────────────────────────────────┐
+                    │                                             │
+                    │   build with purpose.                       │
+                    │   learn with curiosity.                     │
+                    │   create with intention.                    │
+                    │                                             │
+                    └─────────────────────────────────────────────┘
 
 I see development much like life: **things will break, plans will change, and
 some things won't work the first time.** What matters is being willing to
@@ -165,17 +134,17 @@ a life that I'm proud of.
 
 ## `07 // CONNECTION ESTABLISHED`
 
-```text
-╭──────────────────────────────────────────╮
-│                                          │
-│       LEARN SOMETHING.                   │
-│       BUILD SOMETHING.                   │
-│       MAKE IT MEAN SOMETHING.            │
-│                                          │
-│                 ── Angel Mae             │
-│                                          │
-╰──────────────────────────────────────────╯
-```
+                ```text
+                ╭──────────────────────────────────────────╮
+                │                                          │
+                │       LEARN SOMETHING.                   │
+                │       BUILD SOMETHING.                   │
+                │       MAKE IT MEAN SOMETHING.            │
+                │                                          │
+                │                 ── Angel Mae             │
+                │                                          │
+                ╰──────────────────────────────────────────╯
+                ```
 
 Thanks for stopping by my little corner of GitHub.
 
