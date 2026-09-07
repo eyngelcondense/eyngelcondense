@@ -104,13 +104,13 @@ I believe being a developer is not only about writing code. It's also about comm
 
 I'm still learning, still building, and still figuring things out — and honestly, that's one of the things I enjoy most about being in tech.
 
-                                                        ┌─────────────────────────────────────────────┐
-                                                        │                                             │
-                                                        │   build with purpose.                       │
-                                                        │   learn with curiosity.                     │
-                                                        │   create with intention.                    │
-                                                        │                                             │
-                                                        └─────────────────────────────────────────────┘
+                                              ┌─────────────────────────────────────────────┐
+                                              │                                             │
+                                              │   build with purpose.                       │
+                                              │   learn with curiosity.                     │
+                                              │   create with intention.                    │
+                                              │                                             │
+                                              └─────────────────────────────────────────────┘
 
 I see development much like life: **things will break, plans will change, and
 some things won't work the first time.** What matters is being willing to
