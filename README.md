@@ -135,15 +135,15 @@ a life that I'm proud of.
 ## `07 // CONNECTION ESTABLISHED`
 
                                                                 ```text
-                                                                ╭──────────────────────────────────────────╮
-                                                                │                                          │
-                                                                │       LEARN SOMETHING.                   │
-                                                                │       BUILD SOMETHING.                   │
-                                                                │       MAKE IT MEAN SOMETHING.            │
-                                                                │                                          │
-                                                                │                 ── Angel Mae             │
-                                                                │                                          │
-                                                                ╰──────────────────────────────────────────╯
+                                                      ╭──────────────────────────────────────────╮
+                                                      │                                          │
+                                                      │       LEARN SOMETHING.                   │
+                                                      │       BUILD SOMETHING.                   │
+                                                      │       MAKE IT MEAN SOMETHING.            │
+                                                      │                                          │
+                                                      │                 ── Angel Mae             │
+                                                      │                                          │
+                                                      ╰──────────────────────────────────────────╯
                                                                 ```
 
 Thanks for stopping by my little corner of GitHub.
